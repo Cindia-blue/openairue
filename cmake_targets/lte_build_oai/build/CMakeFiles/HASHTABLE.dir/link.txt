@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHASHTABLE.a  CMakeFiles/HASHTABLE.dir/home/lixh/ue_folder/common/utils/hashtable/hashtable.c.o CMakeFiles/HASHTABLE.dir/home/lixh/ue_folder/common/utils/hashtable/obj_hashtable.c.o
+/usr/bin/ranlib libHASHTABLE.a

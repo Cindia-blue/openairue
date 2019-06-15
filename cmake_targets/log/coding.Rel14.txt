@@ -1,0 +1,10 @@
+[  0%] Built target generate_T
+Scanning dependencies of target coding
+[  0%] Building C object CMakeFiles/coding.dir/home/lixh/ue_folder/openair1/PHY/CODING/3gpplte_sse.c.o
+[100%] Building C object CMakeFiles/coding.dir/home/lixh/ue_folder/openair1/PHY/CODING/3gpplte.c.o
+[100%] Building C object CMakeFiles/coding.dir/home/lixh/ue_folder/openair1/PHY/CODING/3gpplte_turbo_decoder_avx2_16bit.c.o
+[100%] Building C object CMakeFiles/coding.dir/home/lixh/ue_folder/openair1/PHY/CODING/3gpplte_turbo_decoder_sse_16bit.c.o
+[100%] Building C object CMakeFiles/coding.dir/home/lixh/ue_folder/openair1/PHY/CODING/3gpplte_turbo_decoder_sse_8bit.c.o
+[100%] Building C object CMakeFiles/coding.dir/home/lixh/ue_folder/openair1/PHY/CODING/3gpplte_turbo_decoder.c.o
+[100%] Linking C shared module libcoding.so
+[100%] Built target coding

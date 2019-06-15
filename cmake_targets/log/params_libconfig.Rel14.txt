@@ -1,0 +1,4 @@
+Scanning dependencies of target params_libconfig
+Building C object CMakeFiles/params_libconfig.dir/home/lixh/ue_folder/common/config/libconfig/config_libconfig.c.o
+Linking C shared module libparams_libconfig.so
+Built target params_libconfig

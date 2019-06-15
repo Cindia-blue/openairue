@@ -1,0 +1,2 @@
+/usr/bin/ar qc libUDP.a  CMakeFiles/UDP.dir/home/lixh/ue_folder/openair3/UDP/udp_eNB_task.c.o
+/usr/bin/ranlib libUDP.a

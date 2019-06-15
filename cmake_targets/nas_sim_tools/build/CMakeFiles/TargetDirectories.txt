@@ -1,0 +1,5 @@
+/home/lixh/ue_folder/cmake_targets/nas_sim_tools/build/CMakeFiles/edit_cache.dir
+/home/lixh/ue_folder/cmake_targets/nas_sim_tools/build/CMakeFiles/nvram.dir
+/home/lixh/ue_folder/cmake_targets/nas_sim_tools/build/CMakeFiles/conf2uedata.dir
+/home/lixh/ue_folder/cmake_targets/nas_sim_tools/build/CMakeFiles/rebuild_cache.dir
+/home/lixh/ue_folder/cmake_targets/nas_sim_tools/build/CMakeFiles/usim.dir

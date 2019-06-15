@@ -1,0 +1,6 @@
+Scanning dependencies of target ue_ip
+/home/lixh/ue_folder/openair2/NETWORK_DRIVER/UE_IP/netlink.c
+/home/lixh/ue_folder/openair2/NETWORK_DRIVER/UE_IP/device.c:352:5: warning: "RHEL_RELEASE_CODE" is not defined, evaluates to 0 [-Wundef]
+ #if RHEL_RELEASE_CODE>=1797
+     ^~~~~~~~~~~~~~~~~
+Built target ue_ip

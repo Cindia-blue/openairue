@@ -1,0 +1,17 @@
+Built target generate_T
+Scanning dependencies of target oai_eth_transpro
+Building C object CMakeFiles/oai_eth_transpro.dir/home/lixh/ue_folder/targets/ARCH/ETHERNET/USERSPACE/LIB/ethernet_lib.c.o
+Building C object CMakeFiles/oai_eth_transpro.dir/home/lixh/ue_folder/targets/ARCH/ETHERNET/USERSPACE/LIB/eth_raw.c.o
+Building C object CMakeFiles/oai_eth_transpro.dir/home/lixh/ue_folder/targets/ARCH/ETHERNET/USERSPACE/LIB/eth_udp.c.o
+/home/lixh/ue_folder/targets/ARCH/ETHERNET/USERSPACE/LIB/eth_raw.c: In function ‘trx_eth_write_raw’:
+/home/lixh/ue_folder/targets/ARCH/ETHERNET/USERSPACE/LIB/eth_raw.c:182:21: warning: ‘sent_byte’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+       bytes_sent += send(eth->sockfdd,
+                     ^~~~~~~~~~~~~~~~~~
+     buff2,
+     ~~~~~~           
+     sent_byte,
+     ~~~~~~~~~~       
+     sendto_flag);
+     ~~~~~~~~~~~~     
+Linking C shared module liboai_eth_transpro.so
+Built target oai_eth_transpro

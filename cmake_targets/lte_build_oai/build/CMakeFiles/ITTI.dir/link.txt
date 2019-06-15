@@ -1,0 +1,2 @@
+/usr/bin/ar qc libITTI.a  CMakeFiles/ITTI.dir/home/lixh/ue_folder/common/utils/ocp_itti/intertask_interface.cpp.o CMakeFiles/ITTI.dir/home/lixh/ue_folder/common/utils/backtrace.c.o CMakeFiles/ITTI.dir/home/lixh/ue_folder/common/utils/memory_pools.c.o
+/usr/bin/ranlib libITTI.a
